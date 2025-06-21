@@ -13,6 +13,7 @@ export default defineConfig({
       manifest: {
         name: 'REST-KOT APP',
         short_name: 'KOTAPP',
+        description: 'A restaurant kitchen order ticket (KOT) management app.',
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',
